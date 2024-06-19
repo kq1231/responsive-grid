@@ -606,20 +606,12 @@ video {
   display: grid;
 }
 
-.h-\[400px\] {
-  height: 400px;
-}
-
 .h-full {
   height: 100%;
 }
 
 .h-screen {
   height: 100vh;
-}
-
-.w-\[550px\] {
-  width: 550px;
 }
 
 .w-full {
